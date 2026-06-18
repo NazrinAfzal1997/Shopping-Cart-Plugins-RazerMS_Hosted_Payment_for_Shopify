@@ -1,3 +1,8 @@
+[Shopping Cart Plugins] – RazerMS Shopify Payment App
+=====================
+
+![shopify](https://user-images.githubusercontent.com/38641542/74416385-097a1e80-4e80-11ea-9bce-cc79fb9d9837.jpg)
+
 # 🚚 Repository Moved
 
 This repository has been moved to a new location and is no longer actively maintained.
@@ -11,11 +16,6 @@ All future updates, bug fixes, and feature enhancements will be published in the
 Thank you for your support.
 
 ---
-
-[Shopping Cart Plugins] – RazerMS Shopify Payment App
-=====================
-
-![shopify](https://user-images.githubusercontent.com/38641542/74416385-097a1e80-4e80-11ea-9bce-cc79fb9d9837.jpg)
 
 Hosted Payment for Shopify developed by Razer Merchant Services technical team.
 
@@ -75,3 +75,4 @@ Channel/Partner Enquiry : channel-sa@razer.com <br>
 Media Contact : media-sa@razer.com <br>
 R&D and Tech-related Suggestion : technical-sa@razer.com <br>
 Abuse Reporting : abuse-sa@razer.com 
+
